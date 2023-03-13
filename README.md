@@ -70,7 +70,7 @@
 
 <th><a href="https://instagram.com/surojit_mondal_memes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surojit_mondal_memes" height="30" width="40" /></a></th>
 
-<th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surojit_mondal_memes" height="30" width="40" /></a></th>
+<th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="surojit_mondal_memes" height="35" width="35" /></a></th>
 </table>
 </thead>
 </tr>
@@ -80,5 +80,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></p>
 
 
-
- 
