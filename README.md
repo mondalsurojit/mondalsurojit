@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, CSS**
 
-- 📫 Wanna reach me **surojitmondalit@gmail.com**
+- 👨‍💻 Portfolio Link **Will Be Available Soon**
  
 - ⚡ Fun fact **I Hate Bugs**
 <hr>
@@ -69,12 +69,16 @@
 <th><a href="https://linkedin.com/in/surojitmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surojitmondal" height="30" width="40" /></a></th>
 
 <th><a href="https://instagram.com/surojit_mondal_memes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surojit_mondal_memes" height="30" width="40" /></a></th>
+
+<th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surojit_mondal_memes" height="30" width="40" /></a></th>
 </table>
 </thead>
 </tr>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></p>
 
 
+
+ 
