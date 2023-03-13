@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Surojit Mondal</h1>
 <h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
 
-<h2><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></h2>
+<h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></a></h2>
 
 <h2 align="left"> <img src="https://komarev.com/ghpvc/?username=surojitmondalmemes&label=Profile%20Visits&color=f07d4c&style=plastic" alt="surojitmondalmemes" /> </h2>
 
@@ -34,7 +34,7 @@
 <tr>
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html5" width="32" height="32"/> </a> </th>
 
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="40" height="40"/> </a> </th>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="32" height="32"/> </a> </th>
 
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a></th> 
 
@@ -74,8 +74,8 @@
 </thead>
 </tr>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></a></p>
 
 
