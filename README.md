@@ -4,7 +4,7 @@
 
 <h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></a></h2>
 
-<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=surojitmondalmemes&label=Profile%20Visits&color=f07d4c&style=plastic" alt="surojitmondalmemes" /> </h2>
+<h2 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=surojitmondalmemes&label=Profile%20Visits&color=f07d4c&style=plastic" alt="surojitmondalmemes" /></a></h2>
 
 - 🌱 I’m currently learning **Javascript, Django**
 
@@ -13,9 +13,10 @@
 - 👨‍💻 Portfolio Link **Will Be Available Soon**
  
 <hr>
-<h2 align="left">My Skills💻</h2>
 
 <a href="#" target="_blank" rel="noreferrer"> <img align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Just Me Coding:D"></a>
+
+<h2 align="left">My Skills💻</h2>
 
 <strong align="left">Programming</strong>
 <table>
@@ -74,8 +75,9 @@
 </thead>
 </tr>
 <hr>
-<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></a></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></a></p>
 
-<p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></a></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></a></p>
+
 
 
