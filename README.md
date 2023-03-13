@@ -73,6 +73,6 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></p>
 
 
