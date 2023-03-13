@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Surojit Mondal</h1>
 <h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surojitmondalmemes&label=Profile%20Visits&color=f07d4c&style=plastic" alt="surojitmondalmemes" /> </p>
 
@@ -11,6 +11,8 @@
 - 💬 Ask me about **Java, CSS**
 
 - 📫 Wanna reach me **surojitmondalit@gmail.com**
+ 
+- ⚡ Fun fact **I Hate Bugs**
 <hr>
 <h2 align="left">My Skills💻</h2>
 
@@ -73,6 +75,6 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></p>
 
 
