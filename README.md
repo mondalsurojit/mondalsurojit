@@ -75,17 +75,11 @@
 </thead>
 </tr>
 <hr>
-<table>
-<thead>
-<tr>
-<th><p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="mondalsurojit" /></a></p></th>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="mondalsurojit" /></a></p>
 
-<th><p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="mondalsurojit" /></a></p></th>
-</table>
-</thead>
-</tr>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="mondalsurojit" /></a></p>
+
 <hr>
 <p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="githubgridsnake.svg" alt="mondalsurojit" /></a></p>
 
-
-
+<h3 align="center">Thank you so much for coming here 🙏</h3>
