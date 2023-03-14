@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Surojit Mondal</h1>
 <h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
 
-<h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surojitmondalmemes&theme=dark" alt="surojitmondalmemes" /></a></h2>
+<h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
 
-<h2 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=surojitmondalmemes&label=Profile%20Visits&color=f07d4c&style=plastic" alt="surojitmondalmemes" /></a></h2>
+<h2 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a></h2>
 
 - 🌱 I’m currently learning **Javascript, Django**
 
@@ -75,9 +75,9 @@
 </thead>
 </tr>
 <hr>
-<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="surojitmondalmemes" /></a></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="mondalsurojit" /></a></p>
 
-<p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></a></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="mondalsurojit" /></a></p>
 
 
 
