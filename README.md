@@ -75,7 +75,7 @@
 </thead>
 </tr>
 <hr>
-<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=000000&locale=en&layout=compact" alt="surojitmondalmemes" /></a></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="surojitmondalmemes" /></a></p>
 
 <p><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-stats.vercel.app/api?username=surojitmondalmemes&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="surojitmondalmemes" /></a></p>
 
