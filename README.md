@@ -1,3 +1,10 @@
+    <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            <a href="/media/cc0-audio/t-rex-roar.mp3">
+                Download audio
+            </a>
+    </audio>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading..."></img></a>
 <h1 align="center">Hi 👋, I'm Surojit Mondal</h1>
 <h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
