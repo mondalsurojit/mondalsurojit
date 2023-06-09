@@ -1,5 +1,5 @@
 <a href="#" target="_blank" rel="noreferrer" style="pointer-events: none; user-select: none;"><img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading..."></img></a>
-<h1 align="center">Hello World <a href="#" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, I'm Surojit Mondal</h1>
+<h1 align="center">Hello World <a href="#" target="_blank" rel="noreferrer" style="pointer-events: none; user-select: none;"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, I'm Surojit Mondal</h1>
 <h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
 
 <h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
