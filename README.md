@@ -1,5 +1,5 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading..."></img></a>
-<h1 align="center">Hi 👋, I'm Surojit Mondal</h1>
+<h1 align="center">Hello World <a href="#" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, I'm Surojit Mondal</h1>
 <h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
 
 <h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
@@ -80,6 +80,6 @@
 <p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="mondalsurojit" /></a></p>
 
 <hr>
-<p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="githubgridsnake.svg" alt="mondalsurojit" /></a></p>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" /></a></p>
 
 <h3 align="center">Thank you so much for coming here 🙏</h3>
