@@ -39,7 +39,9 @@
 
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a></th> 
 
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="38"/> </a></th>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="javascript" width="35" height="35"/> </a></th> 
+
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="37"/> </a></th>
 </tr>
 </thead>
 </table>
