@@ -59,7 +59,7 @@
 <table>
 <thead>
 <tr>
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </th>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </th>
 </table>
 </thead>
 </tr>
@@ -68,11 +68,11 @@
 <table>
 <thead>
 <tr>
-<th><a href="https://linkedin.com/in/surojitmondal" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="surojitmondal" height="30" width="30" /></a></th>
+<th><a href="https://linkedin.com/in/surojitmondal" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="surojitmondal" height="30" width="30" /></a></th>
 
-<th><a href="https://instagram.com/surojit_mondal_memes" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="surojit_mondal_memes" height="34" width="34" /></a></th>
+<th><a href="https://instagram.com/surojit_mondal_memes" target="_blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="surojit_mondal_memes" height="34" width="34" /></a></th>
 
-<th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="surojit_mondal_memes" height="36" width="34" /></a></th>
+<th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="surojit_mondal_memes" height="36" width="34" /></a></th>
 </table>
 </thead>
 </tr>
