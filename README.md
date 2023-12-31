@@ -1,6 +1,6 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading..."></img></a>
 <h1 align="center">Hello World <a href="#" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, I'm Surojit Mondal</h1>
-<h3 align="center">19 Yr Old B.Tech IT Student From India</h3>
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Full-stack+developer;Always+learning...!;From+India" alt="Aspiring Full-stack developer" /></a></h3>
 
 <h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
 
