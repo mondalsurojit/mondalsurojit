@@ -4,7 +4,7 @@
 
 <h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a>
+<h3><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a></h3>
 
 
 - 🌱 I’m currently learning **Javascript, Django**
