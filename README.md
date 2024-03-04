@@ -2,9 +2,9 @@
 <h1 align="center">Hello World <a href="#" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, I'm Surojit Mondal</h1>
 <h3 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Full-stack+web+developer;Always+learning...!;From+India+😊" alt="Aspiring Full-stack web developer" /></a></h3>
 
+<h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
 
-
-<h2 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a></h2>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a>
 
 
 - 🌱 I’m currently learning **Javascript, Django**
