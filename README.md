@@ -6,14 +6,14 @@
 
 <h3 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a></h3>
 
-<br>
- 
+
 - 🌱 I’m currently learning **Javascript, Django**
 
 - 💬 Ask me about **Java, CSS**
 
 - 👨‍💻 <a href="mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>
 
+<br>
 
 <hr>
 
