@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, CSS**
 
-- 👨‍💻 **<a href="mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
+- 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
 <br>
 
