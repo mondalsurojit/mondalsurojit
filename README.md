@@ -89,8 +89,8 @@
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="100px" height="100px" alt="Adventurer Badge"/>
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="100px" height="100px" alt="Trailblazer Badge"/>
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="100px" height="100px" alt="Summit Seeker Badge"/>
-<!--   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="100px" height="100px" alt="Champion Badge"/>
-  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="105px" height="105px" alt="Innovator Badge"/>
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="100px" height="100px" alt="Champion Badge"/>
+<!--   <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="105px" height="105px" alt="Innovator Badge"/>
   <img src="https://gssoc.girlscript.tech/badges/7.png?imwidth=256" width="100px" height="100px" alt="Conqueror Badge"/>
   <img src="https://gssoc.girlscript.tech/badges/8.png?imwidth=256" width="100px" height="100px" alt="Legend Badge"/> -->
 </a>
