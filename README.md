@@ -74,7 +74,7 @@
 
 
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">Connect With Me🤝</h2>
 <table>
 <thead>
 <tr>
@@ -86,15 +86,21 @@
 </table>
 </thead>
 </tr>
+<br>
 
-<h2></h2>
 
+<h2>Badges🎖️</h2>
+
+<details>	
+ <summary><b>Holopin Badges 🦖</b></summary><br>
+ 
 [![An image of @mondalsurojit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mondalsurojit)](https://holopin.io/@mondalsurojit)
 
+</details>
 <br>
 
 <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <summary><b>GSSoC'24 Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=256" width="100px" height="100px" alt="Postman Student Expert Badge"/>
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="100px" height="100px" alt="Explorer Badge" />
