@@ -1,10 +1,12 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading..."></img></a>
 <h1 align="center">Hello World <a href="#" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, I'm Surojit Mondal</h1>
-<h3 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" /></a></h3>
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" /></a></h3>
 
 <h3 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="mondalsurojit" /></a></h3>
 
-<h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h2>
+<h2></h2>
+
+<h3 align="right"><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" /></a></h3>
 
 - 🌱 I’m currently learning **React, Django**
 
@@ -14,7 +16,10 @@
 
 - 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
-<hr>
+<br>
+
+<h2></h2>
+
 
 <a href="#" target="_blank" rel="noreferrer"> <img align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Just Me Coding:D"></a>
 
