@@ -86,7 +86,12 @@
 </table>
 </thead>
 </tr>
-<hr>
+
+<h2></h2>
+
+[![An image of @mondalsurojit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mondalsurojit)](https://holopin.io/@mondalsurojit)
+
+<br>
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -103,6 +108,7 @@
 </a>
 </div>
 </details>
+<h2></h2>
 
 <p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="mondalsurojit" /></a></p>
 
