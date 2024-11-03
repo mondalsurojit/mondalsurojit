@@ -25,15 +25,15 @@
 
 <h2 align="left">My Skills💻</h2>
 
-<a href="#" target="_blank" rel="noreferrer"> <img align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Just Me Coding:D" ></a>
+<a href="#my-skills" target="_blank" rel="noreferrer"> <img align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Just Me Coding:D" ></a>
 
-<strong align="left">Programming</strong>
+<strong align="left" id="programming">Programming</strong>
 <table>
 <thead>
 <tr>
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a></th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a></th>
 
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/> </a> </th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/> </a> </th>
 </table>
 </thead>
 </tr>
@@ -42,15 +42,15 @@
 <table>
 <thead>
 <tr>
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html5" width="32" height="32"/> </a> </th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html5" width="32" height="32"/> </a> </th>
 
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="32" height="32"/> </a> </th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="32" height="32"/> </a> </th>
 
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a></th> 
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a></th> 
 
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="javascript" width="35" height="35"/> </a></th> 
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="javascript" width="35" height="35"/> </a></th> 
 
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="37"/> </a></th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="37"/> </a></th>
 </tr>
 </thead>
 </table>
@@ -59,7 +59,7 @@
 <table>
 <thead>
 <tr>
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </th>
 <table>
 <thead>
 <tr>
@@ -68,7 +68,7 @@
 <table>
 <thead>
 <tr>
-<th><a href="#development" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </th>
+<th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </th>
 </table>
 </thead>
 </tr>
