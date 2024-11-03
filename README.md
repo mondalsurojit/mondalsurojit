@@ -23,15 +23,15 @@
 </h2>
 
 <!-- GitHub Stats & Profile Visits -->
-<h3 align="right">
+<h3 align="left">
     <a href="#-2" target="_blank" rel="noreferrer">
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" />
+        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
     </a>
 </h3>
 
-<h3 align="left">
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
+<h3 align="right">
+    <a href="#-2" target="_blank" rel="noreferrer">
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" />
     </a>
 </h3>
 
@@ -157,11 +157,11 @@
     </a>
 </p>
 
-<p>
+<div>
     <a href="#footer" target="_blank" rel="noreferrer">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
     </a>
-</p>
+</div>
 
 <!-- Section Divider -->
 <a href="#footer" target="_blank" rel="noreferrer">
@@ -169,16 +169,17 @@
 </a>
 
 <!-- Contribution Snake Animation -->
-<p>
+<div>
     <a href="#footer" target="_blank" rel="noreferrer">
         <img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" />
     </a>
-</p>
+</div>
 
 <!-- Thank You Message -->
-<h3 align="center">
+<div align="center">
     <a href="#footer" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" />
     </a> 
-    Thank you so much for coming here 🙏
-</h3>
+    <strong>Thank you so much for coming here 🙏</strong>
+</div>
+
