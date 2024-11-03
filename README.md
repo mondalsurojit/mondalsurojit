@@ -126,4 +126,10 @@
 
 <p><a href="#footer" target="_blank" rel="noreferrer"><img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" /></a></p>
 
-<p align="center"><a href="#footer" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></a> Thank you so much for coming here 🙏</p>
+<p align="center">
+  <a href="#footer" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  </a>
+  <span style="font-weight: bold; font-size: 20px;">Thank you so much for coming here 🙏</span>
+</p>
+
