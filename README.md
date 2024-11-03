@@ -23,25 +23,26 @@
 </h2>
 
 <!-- GitHub Stats & Profile Visits -->
-<h3 align="left">
-    <a href="#-2" target="_blank" rel="noreferrer">
-        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
-    </a>
-</h3>
-
 <h3 align="right">
     <a href="#-2" target="_blank" rel="noreferrer">
         <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" />
     </a>
 </h3>
 
+<h3 align="left">
+    <a href="#-2" target="_blank" rel="noreferrer">
+        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
+    </a>
+</h3>
+
 <!-- About Me Section -->
-<ul>
-    <li>🌱 I’m currently learning <strong>React, Django</strong></li>
-    <li>💬 Ask me about <strong>Java, CSS</strong></li>
-    <li>🎓 <strong>B.Tech-IT'26</strong> from <strong>GGV, Bilaspur</strong></li>
-    <li>👨‍💻 <a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a></li>
-</ul>
+- 🌱 I’m currently learning **React, Django**
+
+- 💬 Ask me about **Java, CSS**
+
+- 🎓 **B.Tech-IT'26** from **GGV, Bilaspur**
+
+- 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
 <!-- Section Divider -->
 <h2 id="my-skills"></h2>
