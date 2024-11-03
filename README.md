@@ -123,6 +123,6 @@
 <p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="mondalsurojit" /></a></p>
 
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
-<p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" /></a></p>
+<p><a href="#connect-with-me" target="_blank" rel="noreferrer"><img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" /></a></p>
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thank you so much for coming here 🙏</h3>
