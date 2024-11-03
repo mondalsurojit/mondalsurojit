@@ -176,6 +176,7 @@
 </div>
 
 <!-- Thank You Message -->
+<h3></h3>
 <div align="center">
     <a href="#footer" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" />
