@@ -1,130 +1,137 @@
-<!-- Banner Section -->
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
-</a>
+<!-- Profile Visits -->
+<p align="left">
+  <a href="#-2" target="_blank" rel="noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" />
+  </a>
+</p>
 
 <!-- Heading Section -->
-<h1 align="center" id="h1">
-    Hello World 
-    <a href="#h1" target="_blank" rel="noreferrer">
-        <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
-    </a>, 
-    I'm Surojit Mondal 
-    <a href="#h1" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
-    </a>
+<h1 align="left" id="h1">
+  Hello World 
+  <a href="#h1"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, 
+  I'm Surojit Mondal 
+  <a href="#h1"><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" /></a>
 </h1>
 
 <!-- Typing Animation Section -->
-<h2 align="center">
+<h2 align="left">
     <a href="#h1">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Full-stack+Developer+from+India+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Solving+problems+using+technology!" />
     </a>
+    
 </h2>
 
-<!-- GitHub Stats & Profile Visits -->
-<h3 align="right">
-    <a href="#-2" target="_blank" rel="noreferrer">
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" />
-    </a>
-</h3>
+<!-- Ongoing Projects Section -->
+<table width="100%">
+  <colgroup>
+    <col width="30%">
+    <col width="50%">
+    <col width="20%">
+  </colgroup>
 
-<h3 align="left">
-    <a href="#-2" target="_blank" rel="noreferrer">
-        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
-    </a>
-</h3>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Status</th>
+  </tr>
 
-<!-- About Me Section -->
-- 🌱 I’m currently learning **React, Django**
+  <tr>
+    <td><b>WRF Automation & Visualization</b></td>
+    <td>
+      End-to-end weather modeling pipeline with automated execution.<br>
+      Generates structured visual outputs for analysis.
+    </td>
+    <td>🟢 Ongoing</td>
+  </tr>
 
-- 💬 Ask me about **Java, CSS**
+  <tr>
+    <td><b>SnapFlood</b></td>
+    <td>
+      Flood prediction system with rapid data processing capabilities.<br>
+      Focused on real-time analysis and decision support.
+    </td>
+    <td>🟢 Ongoing</td>
+  </tr>
 
-- 🎓 **B.Tech-IT'26** from **GGV, Bilaspur**
+  <tr>
+    <td><b>Bhujal</b></td>
+    <td>
+      Groundwater monitoring using data-driven methodologies.<br>
+      Aims to support sustainable water resource management.
+    </td>
+    <td>🟡 Delayed</td>
+  </tr>
+</table>
+<br>
 
-- 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
-
-<!-- Section Divider -->
-<h3 id="my-skills"><h3>
-<a href="#my-skills" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
-</a>
 
 <!-- Skills Section -->
-<h2 align="left">My Skills💻</h2>
+<h2 align="left">My Skills 💻</h2>
 
-<!-- Coding Animation -->
-<a href="#my-skills" target="_blank" rel="noreferrer">
-    <img align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Just Me Coding:D" />
+<!-- GitHub Stats  -->
+<a href="#my-skills" target="_blank" rel="noreferrer" align="right">
+     <img align="right" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
 </a>
-
-<!-- Programming Skills -->
-<strong align="left" id="programming">Programming</strong>
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="#my-skills" target="_blank" rel="noreferrer">
-                    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40" />
-                </a>
-            </th>
-            <th>
-                <a href="#my-skills" target="_blank" rel="noreferrer">
-                    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40" />
-                </a>
-            </th>
-        </tr>
-    </thead>
+       
+<!-- Languages -->
+<strong align="left">Languages</strong>
+<table width="100%">
+  <tr>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/></td>
+  </tr>
 </table>
 
-<!-- Development Skills -->
-<strong align="left" id="development">Development</strong>
-<table>
-    <thead>
-        <tr>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="HTML5" width="32" height="32" /></a></th>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="32" height="32" /></a></th>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" /></a></th>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="JavaScript" width="35" height="35" /></a></th>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="38" height="37" /></a></th>
-        </tr>
-    </thead>
+<!-- Technologies / Frameworks -->
+<strong align="left">Technologies / Frameworks</strong>
+<table width="100%">
+  <tr>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxu7RZtrzTTiXCXcdGpcdMcM9xiZ4hBtr-g&s" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png" width="55"/></td>
+  </tr>
+  <tr>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
+  </tr>
 </table>
 
-<!-- Version Control -->
-<strong align="left">Version Control</strong>
-<table>
-    <thead>
-        <tr>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a></th>
-        </tr>
-    </thead>
+<!-- Databases / Cloud -->
+<strong align="left">Databases / Cloud</strong>
+<table width="100%">
+  <tr>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/></td>
+  </tr>
 </table>
 
-<!-- Familiar With -->
-<strong align="left">Familiar With</strong>
-<table>
-    <thead>
-        <tr>
-            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40" /></a></th>
-        </tr>
-    </thead>
-</table>
-<br>
-
-<!-- Connect With Me Section -->
-<h2 align="left">Connect With Me🤝</h2>
-<table>
-    <thead>
-        <tr>
-            <th><a href="https://linkedin.com/in/surojitmondal" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
-            <th><a href="https://instagram.com/surojit_mondal_memes" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="34" width="34" /></a></th>
-            <th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
-        </tr>
-    </thead>
+<!-- Tools -->
+<strong align="left">Tools</strong>
+<table width="100%">
+  <tr>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></td>
+    <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/></td>
+  </tr>
 </table>
 <br>
-
 <!-- Badges Section -->
 <h2>Badges🎖️</h2>
 <details>
@@ -134,39 +141,6 @@
     </a>
 </details>
 <br>
-
-<details>
-    <summary><b>GSSoC'24 Badges 🪶</b></summary><br>
-    <div style='display:flex; align-items:center; gap: 20px;' align='center'>
-        <a href="https://gssoc.girlscript.tech/leaderboard">
-            <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=256" width="100px" height="100px" alt="Postman Student Expert Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="100px" height="100px" alt="Explorer Badge" />
-            <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="100px" height="100px" alt="Adventurer Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="100px" height="100px" alt="Trailblazer Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="100px" height="100px" alt="Summit Seeker Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="100px" height="100px" alt="Champion Badge"/>
-        </a>
-    </div>
-</details>
-
-<!-- Footer Section with Stats -->
-<h2 id="footer"></h2>
-<p>
-    <a href="#footer" target="_blank" rel="noreferrer">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Top Languages" />
-    </a>
-</p>
-
-<div>
-    <a href="#footer" target="_blank" rel="noreferrer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
-    </a>
-</div>
-
-<!-- Section Divider -->
-<a href="#footer" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
-</a>
 
 <!-- Contribution Snake Animation -->
 <div>
