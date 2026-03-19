@@ -36,10 +36,9 @@
   </tr>
 
   <tr>
-    <td><b>WRF Automation & Visualization</b></td>
+    <td><b>WRF-Hy</b></td>
     <td>
-      End-to-end weather modeling pipeline with automated execution.<br>
-      Generates structured visual outputs for analysis.
+      End-to-end automated WRF modeling pipeline producing structured visual outputs across 4 domains, with D4 covering the entire GHMC (~22,000 sq km) at 1 km resolution.
     </td>
     <td>🟢 Ongoing</td>
   </tr>
@@ -47,8 +46,7 @@
   <tr>
     <td><b>SnapFlood</b></td>
     <td>
-      Flood prediction system with rapid data processing capabilities.<br>
-      Focused on real-time analysis and decision support.
+     Mobile app (Android/iOS) for capturing urban flood images & automatically estimate flood depth (using AI/ML), generating city-wide flood Risk–Vulnerability–Hazard map.
     </td>
     <td>🟢 Ongoing</td>
   </tr>
@@ -56,8 +54,7 @@
   <tr>
     <td><b>Bhujal</b></td>
     <td>
-      Groundwater monitoring using data-driven methodologies.<br>
-      Aims to support sustainable water resource management.
+      Real-time, ML-powered groundwater monitoring system for sustainable water management, enabling nearby borewell discovery & a community-driven water-sharing model.
     </td>
     <td>🟡 Delayed</td>
   </tr>
@@ -82,6 +79,8 @@
     <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></td>
     <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
     <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+  </tr>
+  <tr>
     <td align="center" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/></td>
   </tr>
 </table>
