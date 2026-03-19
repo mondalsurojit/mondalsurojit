@@ -9,7 +9,7 @@
 <h1 align="left" id="h1">
   Hello World 
   <a href="#h1"><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" /></a>, 
-  I'm Surojit Mondal 
+  Surojit 
   <a href="#h1"><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" /></a>
 </h1>
 
@@ -22,17 +22,18 @@
 </h2>
 
 <!-- Ongoing Projects Section -->
+<h2 align="left">Ongoing Projects 🏃🏽‍➡️</h2>
+
+<!-- Ongoing Projects Section -->
 <table width="100%">
   <colgroup>
-    <col width="30%">
-    <col width="50%">
-    <col width="20%">
+    <col width="35%">
+    <col width="65%">
   </colgroup>
 
   <tr>
     <th align="left">Project</th>
     <th align="left">Description</th>
-    <th align="left">Status</th>
   </tr>
 
   <tr>
@@ -40,15 +41,13 @@
     <td>
       End-to-end automated WRF modeling pipeline producing structured visual outputs across 4 domains, with D4 covering the entire GHMC (~22,000 sq km) at 1 km resolution.
     </td>
-    <td>🟢 Ongoing</td>
   </tr>
 
   <tr>
     <td><b>SnapFlood</b></td>
     <td>
-     Mobile app (Android/iOS) for capturing urban flood images & automatically estimate flood depth (using AI/ML), generating city-wide flood Risk–Vulnerability–Hazard map.
+      Mobile app (Android/iOS) for capturing urban flood images & automatically estimate flood depth (using AI/ML), generating city-wide flood Risk–Vulnerability–Hazard map.
     </td>
-    <td>🟢 Ongoing</td>
   </tr>
 
   <tr>
@@ -56,7 +55,6 @@
     <td>
       Real-time, ML-powered groundwater monitoring system for sustainable water management, enabling nearby borewell discovery & a community-driven water-sharing model.
     </td>
-    <td>🟡 Delayed</td>
   </tr>
 </table>
 <br>
