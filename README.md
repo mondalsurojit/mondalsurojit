@@ -137,6 +137,20 @@
         <img src="https://holopin.me/mondalsurojit" alt="Holopin Badges" />
     </a>
 </details>
+
+<details>
+    <summary><b>GSSoC'24 Badges 🪶</b></summary><br>
+    <div style='display:flex; align-items:center; gap: 20px;' align='center'>
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+            <img src="https://github.com/mondalsurojit/mondalsurojit/blob/main/gssoc_badges/Postman%20Student%20Expert%20Badge.png?raw=true" width="100px" height="100px" alt="Postman Student Expert Badge"/>
+            <img src="https://github.com/mondalsurojit/mondalsurojit/blob/main/gssoc_badges/Explorer%20Badge.png?raw=true" width="100px" height="100px" alt="Explorer Badge" />
+            <img src="https://raw.githubusercontent.com/mondalsurojit/mondalsurojit/refs/heads/main/gssoc_badges/Adventurer%20Badge.png" width="100px" height="100px" alt="Adventurer Badge"/>
+            <img src="https://github.com/mondalsurojit/mondalsurojit/blob/main/gssoc_badges/Trailblazer%20Badge.png?raw=true" width="100px" height="100px" alt="Trailblazer Badge"/>
+            <img src="https://github.com/mondalsurojit/mondalsurojit/blob/main/gssoc_badges/Summit%20Seeker%20Badge.png?raw=true" height="100px" alt="Summit Seeker Badge"/>
+            <img src="https://github.com/mondalsurojit/mondalsurojit/blob/main/gssoc_badges/Champion%20Badge.png?raw=true" width="100px" height="100px" alt="Champion Badge"/>
+        </a>
+    </div>
+</details>
 <br>
 
 <!-- Contribution Snake Animation -->
